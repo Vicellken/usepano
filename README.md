@@ -1,5 +1,11 @@
 # usepano
 
+<br>
+
+## inspired by [vue-pano](https://github.com/ChiChou/vue-pano)
+
+<br>
+
 ## Project setup
 ```
 npm install
